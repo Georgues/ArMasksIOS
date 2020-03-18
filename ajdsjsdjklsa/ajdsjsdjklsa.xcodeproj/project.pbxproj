@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		234D62E6242221E600E47183 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D62E5242221E600E47183 /* AppDelegate.swift */; };
-		234D62E8242221E600E47183 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D62E7242221E600E47183 /* SceneDelegate.swift */; };
-		234D62EA242221E600E47183 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D62E9242221E600E47183 /* ViewController.swift */; };
-		234D62ED242221E600E47183 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D62EB242221E600E47183 /* Main.storyboard */; };
-		234D62EF242221EB00E47183 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 234D62EE242221EB00E47183 /* Assets.xcassets */; };
-		234D62F2242221EB00E47183 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D62F0242221EB00E47183 /* LaunchScreen.storyboard */; };
-		234D638524225F2800E47183 /* geisha.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 234D638424225F2800E47183 /* geisha.jpeg */; };
+		234D632A24223CE600E47183 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D632924223CE600E47183 /* AppDelegate.swift */; };
+		234D632C24223CE600E47183 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D632B24223CE600E47183 /* SceneDelegate.swift */; };
+		234D632E24223CE600E47183 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D632D24223CE600E47183 /* ViewController.swift */; };
+		234D633124223CE600E47183 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D632F24223CE600E47183 /* Main.storyboard */; };
+		234D633324223CE800E47183 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 234D633224223CE800E47183 /* Assets.xcassets */; };
+		234D633624223CE800E47183 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D633424223CE800E47183 /* LaunchScreen.storyboard */; };
+		234D638324225C8A00E47183 /* geisha.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 234D638224225C8A00E47183 /* geisha.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		234D62E2242221E600E47183 /* ArMasksIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArMasksIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		234D62E5242221E600E47183 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		234D62E7242221E600E47183 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		234D62E9242221E600E47183 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		234D62EC242221E600E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		234D62EE242221EB00E47183 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		234D62F1242221EB00E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		234D62F3242221EB00E47183 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		234D638424225F2800E47183 /* geisha.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = geisha.jpeg; path = ../../../../3d/Geisha/GeishaTest1/geisha.jpeg; sourceTree = "<group>"; };
+		234D632624223CE600E47183 /* ajdsjsdjklsa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ajdsjsdjklsa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		234D632924223CE600E47183 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		234D632B24223CE600E47183 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		234D632D24223CE600E47183 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		234D633024223CE600E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		234D633224223CE800E47183 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		234D633524223CE800E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		234D633724223CE800E47183 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		234D638224225C8A00E47183 /* geisha.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = geisha.jpeg; path = ../../../../3d/Geisha/GeishaTest1/geisha.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		234D62DF242221E600E47183 /* Frameworks */ = {
+		234D632324223CE600E47183 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		234D62D9242221E600E47183 = {
+		234D631D24223CE600E47183 = {
 			isa = PBXGroup;
 			children = (
-				234D62E4242221E600E47183 /* ArMasksIOS */,
-				234D62E3242221E600E47183 /* Products */,
+				234D632824223CE600E47183 /* ajdsjsdjklsa */,
+				234D632724223CE600E47183 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		234D62E3242221E600E47183 /* Products */ = {
+		234D632724223CE600E47183 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				234D62E2242221E600E47183 /* ArMasksIOS.app */,
+				234D632624223CE600E47183 /* ajdsjsdjklsa.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		234D62E4242221E600E47183 /* ArMasksIOS */ = {
+		234D632824223CE600E47183 /* ajdsjsdjklsa */ = {
 			isa = PBXGroup;
 			children = (
-				234D638424225F2800E47183 /* geisha.jpeg */,
-				234D62E5242221E600E47183 /* AppDelegate.swift */,
-				234D62E7242221E600E47183 /* SceneDelegate.swift */,
-				234D62E9242221E600E47183 /* ViewController.swift */,
-				234D62EB242221E600E47183 /* Main.storyboard */,
-				234D62EE242221EB00E47183 /* Assets.xcassets */,
-				234D62F0242221EB00E47183 /* LaunchScreen.storyboard */,
-				234D62F3242221EB00E47183 /* Info.plist */,
+				234D638224225C8A00E47183 /* geisha.jpeg */,
+				234D632924223CE600E47183 /* AppDelegate.swift */,
+				234D632B24223CE600E47183 /* SceneDelegate.swift */,
+				234D632D24223CE600E47183 /* ViewController.swift */,
+				234D632F24223CE600E47183 /* Main.storyboard */,
+				234D633224223CE800E47183 /* Assets.xcassets */,
+				234D633424223CE800E47183 /* LaunchScreen.storyboard */,
+				234D633724223CE800E47183 /* Info.plist */,
 			);
-			path = ArMasksIOS;
+			path = ajdsjsdjklsa;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		234D62E1242221E600E47183 /* ArMasksIOS */ = {
+		234D632524223CE600E47183 /* ajdsjsdjklsa */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 234D62F6242221EB00E47183 /* Build configuration list for PBXNativeTarget "ArMasksIOS" */;
+			buildConfigurationList = 234D633A24223CE800E47183 /* Build configuration list for PBXNativeTarget "ajdsjsdjklsa" */;
 			buildPhases = (
-				234D62DE242221E600E47183 /* Sources */,
-				234D62DF242221E600E47183 /* Frameworks */,
-				234D62E0242221E600E47183 /* Resources */,
+				234D632224223CE600E47183 /* Sources */,
+				234D632324223CE600E47183 /* Frameworks */,
+				234D632424223CE600E47183 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ArMasksIOS;
-			productName = ArMasksIOS;
-			productReference = 234D62E2242221E600E47183 /* ArMasksIOS.app */;
+			name = ajdsjsdjklsa;
+			productName = ajdsjsdjklsa;
+			productReference = 234D632624223CE600E47183 /* ajdsjsdjklsa.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		234D62DA242221E600E47183 /* Project object */ = {
+		234D631E24223CE600E47183 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "George Gostev";
 				TargetAttributes = {
-					234D62E1242221E600E47183 = {
+					234D632524223CE600E47183 = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 234D62DD242221E600E47183 /* Build configuration list for PBXProject "ArMasksIOS" */;
+			buildConfigurationList = 234D632124223CE600E47183 /* Build configuration list for PBXProject "ajdsjsdjklsa" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 234D62D9242221E600E47183;
-			productRefGroup = 234D62E3242221E600E47183 /* Products */;
+			mainGroup = 234D631D24223CE600E47183;
+			productRefGroup = 234D632724223CE600E47183 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				234D62E1242221E600E47183 /* ArMasksIOS */,
+				234D632524223CE600E47183 /* ajdsjsdjklsa */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		234D62E0242221E600E47183 /* Resources */ = {
+		234D632424223CE600E47183 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				234D638524225F2800E47183 /* geisha.jpeg in Resources */,
-				234D62F2242221EB00E47183 /* LaunchScreen.storyboard in Resources */,
-				234D62EF242221EB00E47183 /* Assets.xcassets in Resources */,
-				234D62ED242221E600E47183 /* Main.storyboard in Resources */,
+				234D633624223CE800E47183 /* LaunchScreen.storyboard in Resources */,
+				234D633324223CE800E47183 /* Assets.xcassets in Resources */,
+				234D633124223CE600E47183 /* Main.storyboard in Resources */,
+				234D638324225C8A00E47183 /* geisha.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		234D62DE242221E600E47183 /* Sources */ = {
+		234D632224223CE600E47183 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				234D62EA242221E600E47183 /* ViewController.swift in Sources */,
-				234D62E6242221E600E47183 /* AppDelegate.swift in Sources */,
-				234D62E8242221E600E47183 /* SceneDelegate.swift in Sources */,
+				234D632E24223CE600E47183 /* ViewController.swift in Sources */,
+				234D632A24223CE600E47183 /* AppDelegate.swift in Sources */,
+				234D632C24223CE600E47183 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		234D62EB242221E600E47183 /* Main.storyboard */ = {
+		234D632F24223CE600E47183 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				234D62EC242221E600E47183 /* Base */,
+				234D633024223CE600E47183 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		234D62F0242221EB00E47183 /* LaunchScreen.storyboard */ = {
+		234D633424223CE800E47183 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				234D62F1242221EB00E47183 /* Base */,
+				234D633524223CE800E47183 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		234D62F4242221EB00E47183 /* Debug */ = {
+		234D633824223CE800E47183 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		234D62F5242221EB00E47183 /* Release */ = {
+		234D633924223CE800E47183 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,36 +284,36 @@
 			};
 			name = Release;
 		};
-		234D62F7242221EB00E47183 /* Debug */ = {
+		234D633B24223CE800E47183 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KKF67295NP;
-				INFOPLIST_FILE = ArMasksIOS/Info.plist;
+				INFOPLIST_FILE = ajdsjsdjklsa/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.ArMasksIOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.ajdsjsdjklsa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		234D62F8242221EB00E47183 /* Release */ = {
+		234D633C24223CE800E47183 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KKF67295NP;
-				INFOPLIST_FILE = ArMasksIOS/Info.plist;
+				INFOPLIST_FILE = ajdsjsdjklsa/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.ArMasksIOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.ajdsjsdjklsa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		234D62DD242221E600E47183 /* Build configuration list for PBXProject "ArMasksIOS" */ = {
+		234D632124223CE600E47183 /* Build configuration list for PBXProject "ajdsjsdjklsa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				234D62F4242221EB00E47183 /* Debug */,
-				234D62F5242221EB00E47183 /* Release */,
+				234D633824223CE800E47183 /* Debug */,
+				234D633924223CE800E47183 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		234D62F6242221EB00E47183 /* Build configuration list for PBXNativeTarget "ArMasksIOS" */ = {
+		234D633A24223CE800E47183 /* Build configuration list for PBXNativeTarget "ajdsjsdjklsa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				234D62F7242221EB00E47183 /* Debug */,
-				234D62F8242221EB00E47183 /* Release */,
+				234D633B24223CE800E47183 /* Debug */,
+				234D633C24223CE800E47183 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 234D62DA242221E600E47183 /* Project object */;
+	rootObject = 234D631E24223CE600E47183 /* Project object */;
 }

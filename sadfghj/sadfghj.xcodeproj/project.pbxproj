@@ -7,29 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		234D62E6242221E600E47183 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D62E5242221E600E47183 /* AppDelegate.swift */; };
-		234D62E8242221E600E47183 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D62E7242221E600E47183 /* SceneDelegate.swift */; };
-		234D62EA242221E600E47183 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D62E9242221E600E47183 /* ViewController.swift */; };
-		234D62ED242221E600E47183 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D62EB242221E600E47183 /* Main.storyboard */; };
-		234D62EF242221EB00E47183 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 234D62EE242221EB00E47183 /* Assets.xcassets */; };
-		234D62F2242221EB00E47183 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D62F0242221EB00E47183 /* LaunchScreen.storyboard */; };
-		234D638524225F2800E47183 /* geisha.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 234D638424225F2800E47183 /* geisha.jpeg */; };
+		234D636A2422464C00E47183 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D63692422464C00E47183 /* AppDelegate.swift */; };
+		234D636C2422464C00E47183 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 234D636B2422464C00E47183 /* art.scnassets */; };
+		234D636E2422464C00E47183 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234D636D2422464C00E47183 /* ViewController.swift */; };
+		234D63712422464C00E47183 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D636F2422464C00E47183 /* Main.storyboard */; };
+		234D63732422464F00E47183 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 234D63722422464F00E47183 /* Assets.xcassets */; };
+		234D63762422464F00E47183 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234D63742422464F00E47183 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		234D62E2242221E600E47183 /* ArMasksIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArMasksIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		234D62E5242221E600E47183 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		234D62E7242221E600E47183 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		234D62E9242221E600E47183 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		234D62EC242221E600E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		234D62EE242221EB00E47183 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		234D62F1242221EB00E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		234D62F3242221EB00E47183 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		234D638424225F2800E47183 /* geisha.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = geisha.jpeg; path = ../../../../3d/Geisha/GeishaTest1/geisha.jpeg; sourceTree = "<group>"; };
+		234D63662422464C00E47183 /* sadfghj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sadfghj.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		234D63692422464C00E47183 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		234D636B2422464C00E47183 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		234D636D2422464C00E47183 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		234D63702422464C00E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		234D63722422464F00E47183 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		234D63752422464F00E47183 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		234D63772422464F00E47183 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		234D62DF242221E600E47183 /* Frameworks */ = {
+		234D63632422464C00E47183 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		234D62D9242221E600E47183 = {
+		234D635D2422464C00E47183 = {
 			isa = PBXGroup;
 			children = (
-				234D62E4242221E600E47183 /* ArMasksIOS */,
-				234D62E3242221E600E47183 /* Products */,
+				234D63682422464C00E47183 /* sadfghj */,
+				234D63672422464C00E47183 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		234D62E3242221E600E47183 /* Products */ = {
+		234D63672422464C00E47183 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				234D62E2242221E600E47183 /* ArMasksIOS.app */,
+				234D63662422464C00E47183 /* sadfghj.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		234D62E4242221E600E47183 /* ArMasksIOS */ = {
+		234D63682422464C00E47183 /* sadfghj */ = {
 			isa = PBXGroup;
 			children = (
-				234D638424225F2800E47183 /* geisha.jpeg */,
-				234D62E5242221E600E47183 /* AppDelegate.swift */,
-				234D62E7242221E600E47183 /* SceneDelegate.swift */,
-				234D62E9242221E600E47183 /* ViewController.swift */,
-				234D62EB242221E600E47183 /* Main.storyboard */,
-				234D62EE242221EB00E47183 /* Assets.xcassets */,
-				234D62F0242221EB00E47183 /* LaunchScreen.storyboard */,
-				234D62F3242221EB00E47183 /* Info.plist */,
+				234D63692422464C00E47183 /* AppDelegate.swift */,
+				234D636B2422464C00E47183 /* art.scnassets */,
+				234D636D2422464C00E47183 /* ViewController.swift */,
+				234D636F2422464C00E47183 /* Main.storyboard */,
+				234D63722422464F00E47183 /* Assets.xcassets */,
+				234D63742422464F00E47183 /* LaunchScreen.storyboard */,
+				234D63772422464F00E47183 /* Info.plist */,
 			);
-			path = ArMasksIOS;
+			path = sadfghj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		234D62E1242221E600E47183 /* ArMasksIOS */ = {
+		234D63652422464C00E47183 /* sadfghj */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 234D62F6242221EB00E47183 /* Build configuration list for PBXNativeTarget "ArMasksIOS" */;
+			buildConfigurationList = 234D637A2422464F00E47183 /* Build configuration list for PBXNativeTarget "sadfghj" */;
 			buildPhases = (
-				234D62DE242221E600E47183 /* Sources */,
-				234D62DF242221E600E47183 /* Frameworks */,
-				234D62E0242221E600E47183 /* Resources */,
+				234D63622422464C00E47183 /* Sources */,
+				234D63632422464C00E47183 /* Frameworks */,
+				234D63642422464C00E47183 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ArMasksIOS;
-			productName = ArMasksIOS;
-			productReference = 234D62E2242221E600E47183 /* ArMasksIOS.app */;
+			name = sadfghj;
+			productName = sadfghj;
+			productReference = 234D63662422464C00E47183 /* sadfghj.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		234D62DA242221E600E47183 /* Project object */ = {
+		234D635E2422464C00E47183 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "George Gostev";
 				TargetAttributes = {
-					234D62E1242221E600E47183 = {
+					234D63652422464C00E47183 = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 234D62DD242221E600E47183 /* Build configuration list for PBXProject "ArMasksIOS" */;
+			buildConfigurationList = 234D63612422464C00E47183 /* Build configuration list for PBXProject "sadfghj" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 234D62D9242221E600E47183;
-			productRefGroup = 234D62E3242221E600E47183 /* Products */;
+			mainGroup = 234D635D2422464C00E47183;
+			productRefGroup = 234D63672422464C00E47183 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				234D62E1242221E600E47183 /* ArMasksIOS */,
+				234D63652422464C00E47183 /* sadfghj */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		234D62E0242221E600E47183 /* Resources */ = {
+		234D63642422464C00E47183 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				234D638524225F2800E47183 /* geisha.jpeg in Resources */,
-				234D62F2242221EB00E47183 /* LaunchScreen.storyboard in Resources */,
-				234D62EF242221EB00E47183 /* Assets.xcassets in Resources */,
-				234D62ED242221E600E47183 /* Main.storyboard in Resources */,
+				234D636C2422464C00E47183 /* art.scnassets in Resources */,
+				234D63762422464F00E47183 /* LaunchScreen.storyboard in Resources */,
+				234D63732422464F00E47183 /* Assets.xcassets in Resources */,
+				234D63712422464C00E47183 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		234D62DE242221E600E47183 /* Sources */ = {
+		234D63622422464C00E47183 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				234D62EA242221E600E47183 /* ViewController.swift in Sources */,
-				234D62E6242221E600E47183 /* AppDelegate.swift in Sources */,
-				234D62E8242221E600E47183 /* SceneDelegate.swift in Sources */,
+				234D636E2422464C00E47183 /* ViewController.swift in Sources */,
+				234D636A2422464C00E47183 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		234D62EB242221E600E47183 /* Main.storyboard */ = {
+		234D636F2422464C00E47183 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				234D62EC242221E600E47183 /* Base */,
+				234D63702422464C00E47183 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		234D62F0242221EB00E47183 /* LaunchScreen.storyboard */ = {
+		234D63742422464F00E47183 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				234D62F1242221EB00E47183 /* Base */,
+				234D63752422464F00E47183 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		234D62F4242221EB00E47183 /* Debug */ = {
+		234D63782422464F00E47183 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		234D62F5242221EB00E47183 /* Release */ = {
+		234D63792422464F00E47183 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,36 +280,36 @@
 			};
 			name = Release;
 		};
-		234D62F7242221EB00E47183 /* Debug */ = {
+		234D637B2422464F00E47183 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KKF67295NP;
-				INFOPLIST_FILE = ArMasksIOS/Info.plist;
+				INFOPLIST_FILE = sadfghj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.ArMasksIOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.sadfghj;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		234D62F8242221EB00E47183 /* Release */ = {
+		234D637C2422464F00E47183 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KKF67295NP;
-				INFOPLIST_FILE = ArMasksIOS/Info.plist;
+				INFOPLIST_FILE = sadfghj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.ArMasksIOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.georgium.sadfghj;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		234D62DD242221E600E47183 /* Build configuration list for PBXProject "ArMasksIOS" */ = {
+		234D63612422464C00E47183 /* Build configuration list for PBXProject "sadfghj" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				234D62F4242221EB00E47183 /* Debug */,
-				234D62F5242221EB00E47183 /* Release */,
+				234D63782422464F00E47183 /* Debug */,
+				234D63792422464F00E47183 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		234D62F6242221EB00E47183 /* Build configuration list for PBXNativeTarget "ArMasksIOS" */ = {
+		234D637A2422464F00E47183 /* Build configuration list for PBXNativeTarget "sadfghj" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				234D62F7242221EB00E47183 /* Debug */,
-				234D62F8242221EB00E47183 /* Release */,
+				234D637B2422464F00E47183 /* Debug */,
+				234D637C2422464F00E47183 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 234D62DA242221E600E47183 /* Project object */;
+	rootObject = 234D635E2422464C00E47183 /* Project object */;
 }
